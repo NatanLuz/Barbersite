@@ -36,6 +36,7 @@ Quis utilizar e inserir as seguintes Tecnologias
 - Google Fonts (Poppins)
 - JavaScript (animações de rolagem e parallax)
 
+Descrevi de forma geral tudo o que utilizei para ficar formal de acordo com o objetivo proposto do Projeto.
 ---
 
 ## 📷 Demonstração
@@ -45,16 +46,16 @@ Acesse > https://barbersite-orpin.vercel.app/
 
 ## Contato
 
-Entre em contato diretamente para agendar um corte ou saber mais:
+Entre em contato diretamente para agendar um corte ou saber mais sobre sites que posso desenvolver para você :
 
-- 📱 WhatsApp: [Clique para agendar](https://wa.me/5195954841)
+
 - 📧 Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 
 ---
 
 ## 👨‍💻 Desenvolvedor
 
-Feito com dedicação por **Natan Da Luz**  
+Feito com muita dedicação por **Natan Da Luz**.
  
 🔗 [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/)  
 
