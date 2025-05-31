@@ -14,6 +14,7 @@ Este site foi criado com o objetivo de atrair e facilitar o contato com clientes
 ---
 
 ## Funcionalidades
+Decidir aplicar no site :
 
 ✅ Página principal com chamada para ação  
 ✅ Seção "Sobre" destacando diferenciais do serviço  
@@ -55,7 +56,7 @@ Entre em contato diretamente para agendar um corte ou saber mais:
 
 Feito com dedicação por **Natan Da Luz**  
  
-🔗 [LinkedIn](https://www.linkedin.com/in/natandaluz)  
+🔗 [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/)  
 
 ---
 
