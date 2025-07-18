@@ -2,7 +2,7 @@
 
 Site profissional desenvolvido em **HTML** e **CSS**, feito para apresentar os serviços de barbeiro autônomo com atendimento a domicílio em **Viamão e Porto Alegre**, facilitando o agendamento direto pelo **WhatsApp** ou **Email** (opção corporativa)
 
-## Sobre o Projeto pessoal
+## Sobre o Projeto pessoal *DEMONSTRATIVO APENAS*.
 
 Este site foi criado com o objetivo de atrair e facilitar o contato com clientes, oferecendo um ambiente moderno, informativo e responsivo, onde é possível:
 
@@ -39,7 +39,7 @@ Quis utilizar e inserir as seguintes Tecnologias
 Descrevi de forma geral tudo o que utilizei para ficar formal de acordo com o objetivo proposto do Projeto.
 ---
 
-## 📷 Demonstração
+## Demonstração
 
 Acesse > https://barbersite-orpin.vercel.app/ 
 ---
@@ -53,11 +53,11 @@ Entre em contato diretamente para agendar um corte ou saber mais sobre sites que
 
 ---
 
-## 👨‍💻 Desenvolvedor
+##  Desenvolvedor
 
 Feito com muita dedicação por **Natan Da Luz**.
  
-🔗 [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/)  
+[LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/)  
 
 ---
 
