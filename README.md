@@ -1,4 +1,4 @@
-# Natan - Barbeiro a Domicílio 💈
+# Site - Barbeiro a Domicílio 💈
 
 Site profissional desenvolvido em **HTML** e **CSS**, feito para apresentar os serviços de barbeiro autônomo com atendimento a domicílio em **Viamão e Porto Alegre**, facilitando o agendamento direto pelo **WhatsApp** ou **Email** (opção corporativa)
 
