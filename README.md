@@ -55,12 +55,8 @@ Entre em contato diretamente para agendar um corte ou saber mais sobre sites que
 
 ##  Desenvolvedor
 
-Feito com muita dedicação por **Natan Da Luz**.
+Feito por **Natan Da Luz**.
  
 [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/)  
 
 ---
-
-## 📝 Licença !
-
-Este projeto é de uso pessoal e comercial do autor. Todos os direitos reservados © Natan Da Luz.
