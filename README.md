@@ -39,8 +39,6 @@ Quis utilizar e inserir as seguintes Tecnologias
 Descrevi de forma geral tudo o que utilizei para ficar formal de acordo com o objetivo proposto do Projeto.
 ---
 
-## Demonstração
-
 Acesse > https://barbersite-orpin.vercel.app/ 
 ---
 
@@ -48,15 +46,10 @@ Acesse > https://barbersite-orpin.vercel.app/
 
 Entre em contato diretamente para agendar um corte ou saber mais sobre sites que posso desenvolver para você :
 
-
 - 📧 Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
-
----
 
 ##  Desenvolvedor
 
 Feito por **Natan Da Luz**.
  
 [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/)  
-
----
